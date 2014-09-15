@@ -1,0 +1,14 @@
+C:\Users\Ian Contreras\Documents\GitHub\PANTRY-SYSTEM\WindowsApplication3\WindowsApplication3\obj\Release\WindowsApplication3.vbproj.GenerateResource.Cache
+C:\Users\Ian Contreras\Documents\GitHub\PANTRY-SYSTEM\WindowsApplication3\WindowsApplication3\bin\Release\AtomIT Inventory System.exe.config
+C:\Users\Ian Contreras\Documents\GitHub\PANTRY-SYSTEM\WindowsApplication3\WindowsApplication3\bin\Release\AtomIT Inventory System.exe
+C:\Users\Ian Contreras\Documents\GitHub\PANTRY-SYSTEM\WindowsApplication3\WindowsApplication3\bin\Release\AtomIT Inventory System.pdb
+C:\Users\Ian Contreras\Documents\GitHub\PANTRY-SYSTEM\WindowsApplication3\WindowsApplication3\bin\Release\AtomIT Inventory System.xml
+C:\Users\Ian Contreras\Documents\GitHub\PANTRY-SYSTEM\WindowsApplication3\WindowsApplication3\obj\Release\WindowsApplication3.Form1.resources
+C:\Users\Ian Contreras\Documents\GitHub\PANTRY-SYSTEM\WindowsApplication3\WindowsApplication3\obj\Release\WindowsApplication3.Resources.resources
+C:\Users\Ian Contreras\Documents\GitHub\PANTRY-SYSTEM\WindowsApplication3\WindowsApplication3\obj\Release\AtomIT Inventory System.exe
+C:\Users\Ian Contreras\Documents\GitHub\PANTRY-SYSTEM\WindowsApplication3\WindowsApplication3\obj\Release\AtomIT Inventory System.xml
+C:\Users\Ian Contreras\Documents\GitHub\PANTRY-SYSTEM\WindowsApplication3\WindowsApplication3\obj\Release\AtomIT Inventory System.pdb
+C:\Users\Ian Contreras\Documents\GitHub\PANTRY-SYSTEM\WindowsApplication3\WindowsApplication3\bin\Release\AtomIT Inventory System.exe.manifest
+C:\Users\Ian Contreras\Documents\GitHub\PANTRY-SYSTEM\WindowsApplication3\WindowsApplication3\bin\Release\AtomIT Inventory System.application
+C:\Users\Ian Contreras\Documents\GitHub\PANTRY-SYSTEM\WindowsApplication3\WindowsApplication3\obj\Release\AtomIT Inventory System.exe.manifest
+C:\Users\Ian Contreras\Documents\GitHub\PANTRY-SYSTEM\WindowsApplication3\WindowsApplication3\obj\Release\AtomIT Inventory System.application

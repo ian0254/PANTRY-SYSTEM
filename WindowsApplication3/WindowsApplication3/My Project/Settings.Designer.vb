@@ -63,6 +63,16 @@ Namespace My
                 Return CType(Me("db_pantryConnectionString"),String)
             End Get
         End Property
+        
+        <Global.System.Configuration.ApplicationScopedSettingAttribute(),  _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.Configuration.SpecialSettingAttribute(Global.System.Configuration.SpecialSetting.ConnectionString),  _
+         Global.System.Configuration.DefaultSettingValueAttribute("Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Pantry\db_pantry.mdb")>  _
+        Public ReadOnly Property db_pantryConnectionString1() As String
+            Get
+                Return CType(Me("db_pantryConnectionString1"),String)
+            End Get
+        End Property
     End Class
 End Namespace
 
@@ -73,10 +83,10 @@ Namespace My
      Global.System.Runtime.CompilerServices.CompilerGeneratedAttribute()>  _
     Friend Module MySettingsProperty
         
-        <Global.System.ComponentModel.Design.HelpKeywordAttribute("My.Settings")>  _
-        Friend ReadOnly Property Settings() As Global.WindowsApplication1.My.MySettings
+        <Global.System.ComponentModel.Design.HelpKeywordAttribute("My.Settings")> _
+        Friend ReadOnly Property Settings() As Global.WindowsApplication3.My.MySettings
             Get
-                Return Global.WindowsApplication1.My.MySettings.Default
+                Return Global.WindowsApplication3.My.MySettings.Default
             End Get
         End Property
     End Module
